@@ -1,6 +1,6 @@
 ## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
 
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
+ALL CREDITS GOES TO THE CI BOTS :)
 
 #### If you find any bugs, report to [Zaute Km](https://t.me/iZaute/5)
 
@@ -20,7 +20,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+
 
 ## Config Vars 🤖
 
